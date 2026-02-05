@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Welcome to Programming Fundamentals\n");
-    printf("Spring 2026\n");
+    printf("Name:\tTehreem Fatima\n");
+    printf("Roll No:\25K-6564\n");
+    printf("Section:\tB\n");
     return 0;
 }
+
